@@ -4,7 +4,7 @@
 
 Olá, meu nome é Luiz Henrique, e sou formado em técnico em informatica para internet pelos Instituto Federal do Espírito Santo e atualmente estou graduando Análise e Desenvolvimento na faculdade Multivix.
 <br>
-Atualmente trabalho como Analista de Sistemas Junior, e estou me desenvolvendo profissionalmente na área de Ciência de Dados.
+Atualmente atuo como Analista de Sistemas Junior, e estou me desenvolvendo profissionalmente na área de Ciência de Dados.
 
 <br>
 
