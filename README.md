@@ -10,7 +10,6 @@ Atualmente atuo como Analista de Sistemas Junior, e estou me desenvolvendo profi
 
 ## 🔗 Conecte-se comigo!
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Luizhenss)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luizhen027/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luiz-strutz/)
 
